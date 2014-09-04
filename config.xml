@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <settings>
+        <no_splash>false</no_splash>
+        <no_pause>false</no_pause>
+        <empty_world>false</empty_world>
+        <windowed>false</windowed>
+        <cpu_cores>4</cpu_cores>
+        <cts>false</cts>
+    </settings>
+    <paths>
+        <arma2>D:\Steam\SteamApps\common\Arma 2</arma2>
+        <arma2_oa>D:\Steam\SteamApps\common\Arma 2 Operation Arrowhead</arma2_oa>
+    </paths>
+    <mods></mods>
+    <server>
+        <ip></ip>
+        <port></port>
+    </server>
+</config>
